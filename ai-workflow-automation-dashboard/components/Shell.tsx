@@ -1,0 +1,2 @@
+import Link from 'next/link';
+export default function Shell({children}:{children:React.ReactNode}) { return <div className="shell"><aside className="sidebar"><div className="brand">✳ FlowPilot</div><nav className="nav"><Link className="active" href="/">Overview</Link><Link href="/workflows">Workflows</Link><Link href="/workflows/new">Workflow builder</Link></nav><small>WORKSPACE<br/><b>Operations Studio</b><br/><br/>Demo environment · Local data</small></aside><main className="main">{children}</main></div>; }
