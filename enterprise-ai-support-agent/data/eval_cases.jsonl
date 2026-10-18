@@ -1,0 +1,300 @@
+{"id": "EVAL-001", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 1.", "expected_category": "billing"}
+{"id": "EVAL-002", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 2.", "expected_category": "technical"}
+{"id": "EVAL-003", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 3.", "expected_category": "account"}
+{"id": "EVAL-004", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 4.", "expected_category": "shipping"}
+{"id": "EVAL-005", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 5.", "expected_category": "other"}
+{"id": "EVAL-006", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 6.", "expected_category": "billing"}
+{"id": "EVAL-007", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 7.", "expected_category": "technical"}
+{"id": "EVAL-008", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 8.", "expected_category": "account"}
+{"id": "EVAL-009", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 9.", "expected_category": "shipping"}
+{"id": "EVAL-010", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 10.", "expected_category": "other"}
+{"id": "EVAL-011", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 11.", "expected_category": "billing"}
+{"id": "EVAL-012", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 12.", "expected_category": "technical"}
+{"id": "EVAL-013", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 13.", "expected_category": "account"}
+{"id": "EVAL-014", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 14.", "expected_category": "shipping"}
+{"id": "EVAL-015", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 15.", "expected_category": "other"}
+{"id": "EVAL-016", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 16.", "expected_category": "billing"}
+{"id": "EVAL-017", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 17.", "expected_category": "technical"}
+{"id": "EVAL-018", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 18.", "expected_category": "account"}
+{"id": "EVAL-019", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 19.", "expected_category": "shipping"}
+{"id": "EVAL-020", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 20.", "expected_category": "other"}
+{"id": "EVAL-021", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 21.", "expected_category": "billing"}
+{"id": "EVAL-022", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 22.", "expected_category": "technical"}
+{"id": "EVAL-023", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 23.", "expected_category": "account"}
+{"id": "EVAL-024", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 24.", "expected_category": "shipping"}
+{"id": "EVAL-025", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 25.", "expected_category": "other"}
+{"id": "EVAL-026", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 26.", "expected_category": "billing"}
+{"id": "EVAL-027", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 27.", "expected_category": "technical"}
+{"id": "EVAL-028", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 28.", "expected_category": "account"}
+{"id": "EVAL-029", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 29.", "expected_category": "shipping"}
+{"id": "EVAL-030", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 30.", "expected_category": "other"}
+{"id": "EVAL-031", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 31.", "expected_category": "billing"}
+{"id": "EVAL-032", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 32.", "expected_category": "technical"}
+{"id": "EVAL-033", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 33.", "expected_category": "account"}
+{"id": "EVAL-034", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 34.", "expected_category": "shipping"}
+{"id": "EVAL-035", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 35.", "expected_category": "other"}
+{"id": "EVAL-036", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 36.", "expected_category": "billing"}
+{"id": "EVAL-037", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 37.", "expected_category": "technical"}
+{"id": "EVAL-038", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 38.", "expected_category": "account"}
+{"id": "EVAL-039", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 39.", "expected_category": "shipping"}
+{"id": "EVAL-040", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 40.", "expected_category": "other"}
+{"id": "EVAL-041", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 41.", "expected_category": "billing"}
+{"id": "EVAL-042", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 42.", "expected_category": "technical"}
+{"id": "EVAL-043", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 43.", "expected_category": "account"}
+{"id": "EVAL-044", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 44.", "expected_category": "shipping"}
+{"id": "EVAL-045", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 45.", "expected_category": "other"}
+{"id": "EVAL-046", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 46.", "expected_category": "billing"}
+{"id": "EVAL-047", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 47.", "expected_category": "technical"}
+{"id": "EVAL-048", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 48.", "expected_category": "account"}
+{"id": "EVAL-049", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 49.", "expected_category": "shipping"}
+{"id": "EVAL-050", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 50.", "expected_category": "other"}
+{"id": "EVAL-051", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 51.", "expected_category": "billing"}
+{"id": "EVAL-052", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 52.", "expected_category": "technical"}
+{"id": "EVAL-053", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 53.", "expected_category": "account"}
+{"id": "EVAL-054", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 54.", "expected_category": "shipping"}
+{"id": "EVAL-055", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 55.", "expected_category": "other"}
+{"id": "EVAL-056", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 56.", "expected_category": "billing"}
+{"id": "EVAL-057", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 57.", "expected_category": "technical"}
+{"id": "EVAL-058", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 58.", "expected_category": "account"}
+{"id": "EVAL-059", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 59.", "expected_category": "shipping"}
+{"id": "EVAL-060", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 60.", "expected_category": "other"}
+{"id": "EVAL-061", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 61.", "expected_category": "billing"}
+{"id": "EVAL-062", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 62.", "expected_category": "technical"}
+{"id": "EVAL-063", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 63.", "expected_category": "account"}
+{"id": "EVAL-064", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 64.", "expected_category": "shipping"}
+{"id": "EVAL-065", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 65.", "expected_category": "other"}
+{"id": "EVAL-066", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 66.", "expected_category": "billing"}
+{"id": "EVAL-067", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 67.", "expected_category": "technical"}
+{"id": "EVAL-068", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 68.", "expected_category": "account"}
+{"id": "EVAL-069", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 69.", "expected_category": "shipping"}
+{"id": "EVAL-070", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 70.", "expected_category": "other"}
+{"id": "EVAL-071", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 71.", "expected_category": "billing"}
+{"id": "EVAL-072", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 72.", "expected_category": "technical"}
+{"id": "EVAL-073", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 73.", "expected_category": "account"}
+{"id": "EVAL-074", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 74.", "expected_category": "shipping"}
+{"id": "EVAL-075", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 75.", "expected_category": "other"}
+{"id": "EVAL-076", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 76.", "expected_category": "billing"}
+{"id": "EVAL-077", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 77.", "expected_category": "technical"}
+{"id": "EVAL-078", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 78.", "expected_category": "account"}
+{"id": "EVAL-079", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 79.", "expected_category": "shipping"}
+{"id": "EVAL-080", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 80.", "expected_category": "other"}
+{"id": "EVAL-081", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 81.", "expected_category": "billing"}
+{"id": "EVAL-082", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 82.", "expected_category": "technical"}
+{"id": "EVAL-083", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 83.", "expected_category": "account"}
+{"id": "EVAL-084", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 84.", "expected_category": "shipping"}
+{"id": "EVAL-085", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 85.", "expected_category": "other"}
+{"id": "EVAL-086", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 86.", "expected_category": "billing"}
+{"id": "EVAL-087", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 87.", "expected_category": "technical"}
+{"id": "EVAL-088", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 88.", "expected_category": "account"}
+{"id": "EVAL-089", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 89.", "expected_category": "shipping"}
+{"id": "EVAL-090", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 90.", "expected_category": "other"}
+{"id": "EVAL-091", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 91.", "expected_category": "billing"}
+{"id": "EVAL-092", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 92.", "expected_category": "technical"}
+{"id": "EVAL-093", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 93.", "expected_category": "account"}
+{"id": "EVAL-094", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 94.", "expected_category": "shipping"}
+{"id": "EVAL-095", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 95.", "expected_category": "other"}
+{"id": "EVAL-096", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 96.", "expected_category": "billing"}
+{"id": "EVAL-097", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 97.", "expected_category": "technical"}
+{"id": "EVAL-098", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 98.", "expected_category": "account"}
+{"id": "EVAL-099", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 99.", "expected_category": "shipping"}
+{"id": "EVAL-100", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 100.", "expected_category": "other"}
+{"id": "EVAL-101", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 101.", "expected_category": "billing"}
+{"id": "EVAL-102", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 102.", "expected_category": "technical"}
+{"id": "EVAL-103", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 103.", "expected_category": "account"}
+{"id": "EVAL-104", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 104.", "expected_category": "shipping"}
+{"id": "EVAL-105", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 105.", "expected_category": "other"}
+{"id": "EVAL-106", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 106.", "expected_category": "billing"}
+{"id": "EVAL-107", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 107.", "expected_category": "technical"}
+{"id": "EVAL-108", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 108.", "expected_category": "account"}
+{"id": "EVAL-109", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 109.", "expected_category": "shipping"}
+{"id": "EVAL-110", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 110.", "expected_category": "other"}
+{"id": "EVAL-111", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 111.", "expected_category": "billing"}
+{"id": "EVAL-112", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 112.", "expected_category": "technical"}
+{"id": "EVAL-113", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 113.", "expected_category": "account"}
+{"id": "EVAL-114", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 114.", "expected_category": "shipping"}
+{"id": "EVAL-115", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 115.", "expected_category": "other"}
+{"id": "EVAL-116", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 116.", "expected_category": "billing"}
+{"id": "EVAL-117", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 117.", "expected_category": "technical"}
+{"id": "EVAL-118", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 118.", "expected_category": "account"}
+{"id": "EVAL-119", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 119.", "expected_category": "shipping"}
+{"id": "EVAL-120", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 120.", "expected_category": "other"}
+{"id": "EVAL-121", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 121.", "expected_category": "billing"}
+{"id": "EVAL-122", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 122.", "expected_category": "technical"}
+{"id": "EVAL-123", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 123.", "expected_category": "account"}
+{"id": "EVAL-124", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 124.", "expected_category": "shipping"}
+{"id": "EVAL-125", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 125.", "expected_category": "other"}
+{"id": "EVAL-126", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 126.", "expected_category": "billing"}
+{"id": "EVAL-127", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 127.", "expected_category": "technical"}
+{"id": "EVAL-128", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 128.", "expected_category": "account"}
+{"id": "EVAL-129", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 129.", "expected_category": "shipping"}
+{"id": "EVAL-130", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 130.", "expected_category": "other"}
+{"id": "EVAL-131", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 131.", "expected_category": "billing"}
+{"id": "EVAL-132", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 132.", "expected_category": "technical"}
+{"id": "EVAL-133", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 133.", "expected_category": "account"}
+{"id": "EVAL-134", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 134.", "expected_category": "shipping"}
+{"id": "EVAL-135", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 135.", "expected_category": "other"}
+{"id": "EVAL-136", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 136.", "expected_category": "billing"}
+{"id": "EVAL-137", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 137.", "expected_category": "technical"}
+{"id": "EVAL-138", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 138.", "expected_category": "account"}
+{"id": "EVAL-139", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 139.", "expected_category": "shipping"}
+{"id": "EVAL-140", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 140.", "expected_category": "other"}
+{"id": "EVAL-141", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 141.", "expected_category": "billing"}
+{"id": "EVAL-142", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 142.", "expected_category": "technical"}
+{"id": "EVAL-143", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 143.", "expected_category": "account"}
+{"id": "EVAL-144", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 144.", "expected_category": "shipping"}
+{"id": "EVAL-145", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 145.", "expected_category": "other"}
+{"id": "EVAL-146", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 146.", "expected_category": "billing"}
+{"id": "EVAL-147", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 147.", "expected_category": "technical"}
+{"id": "EVAL-148", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 148.", "expected_category": "account"}
+{"id": "EVAL-149", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 149.", "expected_category": "shipping"}
+{"id": "EVAL-150", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 150.", "expected_category": "other"}
+{"id": "EVAL-151", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 151.", "expected_category": "billing"}
+{"id": "EVAL-152", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 152.", "expected_category": "technical"}
+{"id": "EVAL-153", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 153.", "expected_category": "account"}
+{"id": "EVAL-154", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 154.", "expected_category": "shipping"}
+{"id": "EVAL-155", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 155.", "expected_category": "other"}
+{"id": "EVAL-156", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 156.", "expected_category": "billing"}
+{"id": "EVAL-157", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 157.", "expected_category": "technical"}
+{"id": "EVAL-158", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 158.", "expected_category": "account"}
+{"id": "EVAL-159", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 159.", "expected_category": "shipping"}
+{"id": "EVAL-160", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 160.", "expected_category": "other"}
+{"id": "EVAL-161", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 161.", "expected_category": "billing"}
+{"id": "EVAL-162", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 162.", "expected_category": "technical"}
+{"id": "EVAL-163", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 163.", "expected_category": "account"}
+{"id": "EVAL-164", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 164.", "expected_category": "shipping"}
+{"id": "EVAL-165", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 165.", "expected_category": "other"}
+{"id": "EVAL-166", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 166.", "expected_category": "billing"}
+{"id": "EVAL-167", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 167.", "expected_category": "technical"}
+{"id": "EVAL-168", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 168.", "expected_category": "account"}
+{"id": "EVAL-169", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 169.", "expected_category": "shipping"}
+{"id": "EVAL-170", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 170.", "expected_category": "other"}
+{"id": "EVAL-171", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 171.", "expected_category": "billing"}
+{"id": "EVAL-172", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 172.", "expected_category": "technical"}
+{"id": "EVAL-173", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 173.", "expected_category": "account"}
+{"id": "EVAL-174", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 174.", "expected_category": "shipping"}
+{"id": "EVAL-175", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 175.", "expected_category": "other"}
+{"id": "EVAL-176", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 176.", "expected_category": "billing"}
+{"id": "EVAL-177", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 177.", "expected_category": "technical"}
+{"id": "EVAL-178", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 178.", "expected_category": "account"}
+{"id": "EVAL-179", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 179.", "expected_category": "shipping"}
+{"id": "EVAL-180", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 180.", "expected_category": "other"}
+{"id": "EVAL-181", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 181.", "expected_category": "billing"}
+{"id": "EVAL-182", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 182.", "expected_category": "technical"}
+{"id": "EVAL-183", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 183.", "expected_category": "account"}
+{"id": "EVAL-184", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 184.", "expected_category": "shipping"}
+{"id": "EVAL-185", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 185.", "expected_category": "other"}
+{"id": "EVAL-186", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 186.", "expected_category": "billing"}
+{"id": "EVAL-187", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 187.", "expected_category": "technical"}
+{"id": "EVAL-188", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 188.", "expected_category": "account"}
+{"id": "EVAL-189", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 189.", "expected_category": "shipping"}
+{"id": "EVAL-190", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 190.", "expected_category": "other"}
+{"id": "EVAL-191", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 191.", "expected_category": "billing"}
+{"id": "EVAL-192", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 192.", "expected_category": "technical"}
+{"id": "EVAL-193", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 193.", "expected_category": "account"}
+{"id": "EVAL-194", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 194.", "expected_category": "shipping"}
+{"id": "EVAL-195", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 195.", "expected_category": "other"}
+{"id": "EVAL-196", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 196.", "expected_category": "billing"}
+{"id": "EVAL-197", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 197.", "expected_category": "technical"}
+{"id": "EVAL-198", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 198.", "expected_category": "account"}
+{"id": "EVAL-199", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 199.", "expected_category": "shipping"}
+{"id": "EVAL-200", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 200.", "expected_category": "other"}
+{"id": "EVAL-201", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 201.", "expected_category": "billing"}
+{"id": "EVAL-202", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 202.", "expected_category": "technical"}
+{"id": "EVAL-203", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 203.", "expected_category": "account"}
+{"id": "EVAL-204", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 204.", "expected_category": "shipping"}
+{"id": "EVAL-205", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 205.", "expected_category": "other"}
+{"id": "EVAL-206", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 206.", "expected_category": "billing"}
+{"id": "EVAL-207", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 207.", "expected_category": "technical"}
+{"id": "EVAL-208", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 208.", "expected_category": "account"}
+{"id": "EVAL-209", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 209.", "expected_category": "shipping"}
+{"id": "EVAL-210", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 210.", "expected_category": "other"}
+{"id": "EVAL-211", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 211.", "expected_category": "billing"}
+{"id": "EVAL-212", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 212.", "expected_category": "technical"}
+{"id": "EVAL-213", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 213.", "expected_category": "account"}
+{"id": "EVAL-214", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 214.", "expected_category": "shipping"}
+{"id": "EVAL-215", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 215.", "expected_category": "other"}
+{"id": "EVAL-216", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 216.", "expected_category": "billing"}
+{"id": "EVAL-217", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 217.", "expected_category": "technical"}
+{"id": "EVAL-218", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 218.", "expected_category": "account"}
+{"id": "EVAL-219", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 219.", "expected_category": "shipping"}
+{"id": "EVAL-220", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 220.", "expected_category": "other"}
+{"id": "EVAL-221", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 221.", "expected_category": "billing"}
+{"id": "EVAL-222", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 222.", "expected_category": "technical"}
+{"id": "EVAL-223", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 223.", "expected_category": "account"}
+{"id": "EVAL-224", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 224.", "expected_category": "shipping"}
+{"id": "EVAL-225", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 225.", "expected_category": "other"}
+{"id": "EVAL-226", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 226.", "expected_category": "billing"}
+{"id": "EVAL-227", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 227.", "expected_category": "technical"}
+{"id": "EVAL-228", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 228.", "expected_category": "account"}
+{"id": "EVAL-229", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 229.", "expected_category": "shipping"}
+{"id": "EVAL-230", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 230.", "expected_category": "other"}
+{"id": "EVAL-231", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 231.", "expected_category": "billing"}
+{"id": "EVAL-232", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 232.", "expected_category": "technical"}
+{"id": "EVAL-233", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 233.", "expected_category": "account"}
+{"id": "EVAL-234", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 234.", "expected_category": "shipping"}
+{"id": "EVAL-235", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 235.", "expected_category": "other"}
+{"id": "EVAL-236", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 236.", "expected_category": "billing"}
+{"id": "EVAL-237", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 237.", "expected_category": "technical"}
+{"id": "EVAL-238", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 238.", "expected_category": "account"}
+{"id": "EVAL-239", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 239.", "expected_category": "shipping"}
+{"id": "EVAL-240", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 240.", "expected_category": "other"}
+{"id": "EVAL-241", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 241.", "expected_category": "billing"}
+{"id": "EVAL-242", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 242.", "expected_category": "technical"}
+{"id": "EVAL-243", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 243.", "expected_category": "account"}
+{"id": "EVAL-244", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 244.", "expected_category": "shipping"}
+{"id": "EVAL-245", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 245.", "expected_category": "other"}
+{"id": "EVAL-246", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 246.", "expected_category": "billing"}
+{"id": "EVAL-247", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 247.", "expected_category": "technical"}
+{"id": "EVAL-248", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 248.", "expected_category": "account"}
+{"id": "EVAL-249", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 249.", "expected_category": "shipping"}
+{"id": "EVAL-250", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 250.", "expected_category": "other"}
+{"id": "EVAL-251", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 251.", "expected_category": "billing"}
+{"id": "EVAL-252", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 252.", "expected_category": "technical"}
+{"id": "EVAL-253", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 253.", "expected_category": "account"}
+{"id": "EVAL-254", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 254.", "expected_category": "shipping"}
+{"id": "EVAL-255", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 255.", "expected_category": "other"}
+{"id": "EVAL-256", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 256.", "expected_category": "billing"}
+{"id": "EVAL-257", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 257.", "expected_category": "technical"}
+{"id": "EVAL-258", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 258.", "expected_category": "account"}
+{"id": "EVAL-259", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 259.", "expected_category": "shipping"}
+{"id": "EVAL-260", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 260.", "expected_category": "other"}
+{"id": "EVAL-261", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 261.", "expected_category": "billing"}
+{"id": "EVAL-262", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 262.", "expected_category": "technical"}
+{"id": "EVAL-263", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 263.", "expected_category": "account"}
+{"id": "EVAL-264", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 264.", "expected_category": "shipping"}
+{"id": "EVAL-265", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 265.", "expected_category": "other"}
+{"id": "EVAL-266", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 266.", "expected_category": "billing"}
+{"id": "EVAL-267", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 267.", "expected_category": "technical"}
+{"id": "EVAL-268", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 268.", "expected_category": "account"}
+{"id": "EVAL-269", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 269.", "expected_category": "shipping"}
+{"id": "EVAL-270", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 270.", "expected_category": "other"}
+{"id": "EVAL-271", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 271.", "expected_category": "billing"}
+{"id": "EVAL-272", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 272.", "expected_category": "technical"}
+{"id": "EVAL-273", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 273.", "expected_category": "account"}
+{"id": "EVAL-274", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 274.", "expected_category": "shipping"}
+{"id": "EVAL-275", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 275.", "expected_category": "other"}
+{"id": "EVAL-276", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 276.", "expected_category": "billing"}
+{"id": "EVAL-277", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 277.", "expected_category": "technical"}
+{"id": "EVAL-278", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 278.", "expected_category": "account"}
+{"id": "EVAL-279", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 279.", "expected_category": "shipping"}
+{"id": "EVAL-280", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 280.", "expected_category": "other"}
+{"id": "EVAL-281", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 281.", "expected_category": "billing"}
+{"id": "EVAL-282", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 282.", "expected_category": "technical"}
+{"id": "EVAL-283", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 283.", "expected_category": "account"}
+{"id": "EVAL-284", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 284.", "expected_category": "shipping"}
+{"id": "EVAL-285", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 285.", "expected_category": "other"}
+{"id": "EVAL-286", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 286.", "expected_category": "billing"}
+{"id": "EVAL-287", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 287.", "expected_category": "technical"}
+{"id": "EVAL-288", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 288.", "expected_category": "account"}
+{"id": "EVAL-289", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 289.", "expected_category": "shipping"}
+{"id": "EVAL-290", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 290.", "expected_category": "other"}
+{"id": "EVAL-291", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 291.", "expected_category": "billing"}
+{"id": "EVAL-292", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 292.", "expected_category": "technical"}
+{"id": "EVAL-293", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 293.", "expected_category": "account"}
+{"id": "EVAL-294", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 294.", "expected_category": "shipping"}
+{"id": "EVAL-295", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 295.", "expected_category": "other"}
+{"id": "EVAL-296", "subject": "Invoice refund", "body": "I was charged twice for my monthly subscription. Case reference 296.", "expected_category": "billing"}
+{"id": "EVAL-297", "subject": "App crash", "body": "The app crashes with an error when I open settings. Case reference 297.", "expected_category": "technical"}
+{"id": "EVAL-298", "subject": "Password reset", "body": "My account is locked and I cannot reset my password. Case reference 298.", "expected_category": "account"}
+{"id": "EVAL-299", "subject": "Package tracking", "body": "My package delivery is delayed and tracking is not updating. Case reference 299.", "expected_category": "shipping"}
+{"id": "EVAL-300", "subject": "General question", "body": "Could you explain where I can find more product information? Case reference 300.", "expected_category": "other"}
